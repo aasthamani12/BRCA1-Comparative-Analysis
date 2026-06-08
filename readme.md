@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CLUSTAL_OMEGA_POSTER.png" width="900">
+</p>
+
 # Comparative Analysis of BRCA1 Protein Sequences Using Clustal Omega
 
 ## Overview
